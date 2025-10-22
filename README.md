@@ -3,7 +3,7 @@
 I've studied and finished a Full-Stack Software Development program at [Kood/](kood.tech).
 
 Completed Projects Include: (unfortunately can't be showcased publicly)
-- Social media platform written - Golang and using Go Templates for the frontend
+- Social media platform - Golang and using Go Templates for the frontend
 - Web-based Tetris game - Javascript
 - Social media platform with real time chat using sockets - Javascript and Golang
 - Simple Javascript Framework based on React
