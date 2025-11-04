@@ -1,17 +1,17 @@
-### Hello Recruiter! I'm Leonard.
+<h1>Hi, I'm Leonard! <br/><a href="https://github.com/leonard-ladva">Full-Stack Software Developer</a>, <a href="https://kood.tech/en">Kood/Jõhvi Graduate</a></h1>
 
-If you're looking for **front- or back-end skills**, please checkout [this full-stack social media platform](https://github.com/leonard-ladva/kood-subjects-real-time-forum).
+<h2>👨‍💻 Software Development Projects:</h2>
 
-If you are looking for **mobile development skills**, please take a look at [this real-time chess app](https://github.com/leonard-ladva/kood-chess) or [this android laucher for the visually impaired](https://github.com/leonard-ladva/big-button-launcher).
-
----
-You can also check out other projects on my github. 
-
-This github is actively changing as I am cleaning up and documenting past projects.
-
-I've studied and finished a Full-Stack Software Development program at [Kood/](kood.tech).
-Other projects that I've done and will soon publish here: 
-- Social media platform - Golang and using Go Templates for the frontend
-- Web-based Tetris game - Javascript
-- Simple Javascript Framework based on React
-- Real time Online Multiplayer Bomberman game
+- <b>Full-Stack Web App (Vue.js, GoLang, SQLite)</b>
+  - [Full-Stack Social Media Platform](https://github.com/leonard-ladva/kood-subjects-real-time-forum)
+- <b>Mobile Development</b>
+  - [Real Time Chess Game](https://github.com/leonard-ladva/kood-chess)
+  - [Android Launcher for visually impaired](https://github.com/leonard-ladva/big-button-launcher)
+- <b>Full-Stack Real-Time Multiplayer Web Game</b>
+  - Bomberman - link coming soon
+- <b>Web game (HTML, CSS, JS)</b>
+  - Tetris - link coming soon
+- <b>Basic JS Framework</b>
+  - JS Framework - link coming soon
+- <b>Python GUI app with a web-scraper</b>
+  - [School Tasks-2-GCal](https://github.com/leonard-ladva/Stuudium-2-GCal)
