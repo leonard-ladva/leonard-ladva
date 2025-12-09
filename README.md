@@ -14,7 +14,7 @@
   - Bomberman - link coming soon
 - <b>Web game (HTML, CSS, JS)</b>
   - [🎮 Tetris](https://github.com/leonard-ladva/tetris)
-- <b>Basic JS Framework</b>
-  - JS Framework - link coming soon
+- <b>Basic Javascript Framework</b>
+  - [🧱 Mist.js - Javascript Framework](https://github.com/leonard-ladva/mist-framework)
 - <b>Python GUI app with a web-scraper</b>
   - [📓 School Tasks-2-GCal](https://github.com/leonard-ladva/Stuudium-2-GCal)
