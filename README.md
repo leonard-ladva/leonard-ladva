@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>React Wep App</b>
+  - [Habit Tracker](https://github.com/leonard-ladva/habit-tracker)
 - <b>Full-Stack Web App (Vue.js, GoLang, SQLite)</b>
   - [Full-Stack Social Media Platform](https://github.com/leonard-ladva/kood-subjects-real-time-forum)
 - <b>Mobile Development</b>
