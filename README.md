@@ -13,7 +13,7 @@
 - <b>Full-Stack Real-Time Multiplayer Web Game</b>
   - Bomberman - link coming soon
 - <b>Web game (HTML, CSS, JS)</b>
-  - Tetris - link coming soon
+  - [🎮 Tetris](https://github.com/leonard-ladva/tetris)
 - <b>Basic JS Framework</b>
   - JS Framework - link coming soon
 - <b>Python GUI app with a web-scraper</b>
